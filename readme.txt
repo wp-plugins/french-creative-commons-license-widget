@@ -1,15 +1,15 @@
-=== creative commons license widget ===
+=== french creative commons license widget ===
 
 Plugin Name: french creative commons license widget
 Contributors: Florent Gallaire <fgallaire@gmail.com> (french translation), lcflores, Gyo (italian translation), Sergi Barros (catalan translation)
 Tags: license, creative commons, french, français, licence
 Requires at least: 2.0.2
 Tested up to: 2.9.2
-Stable tag: 0.1
-Version: 0.1
+Stable tag: 0.2
+Version: 0.2
 Creation time: 25/02/2010
 Last updated: 25/02/2010
-Adds a sidebar widget to display creative commons license (supports all 3.0 licenses)
+Adds a sidebar widget to display creative commons license (supports all 3.0 licenses), with french translation.
 
 
 == Description ==
